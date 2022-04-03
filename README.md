@@ -1,7 +1,9 @@
 Welcome
 ----------
 I’m @magentacat but you can call me Nico or Niko.
-I’m interested in computers and especially software, in my spare time i play videogames, watch anime or post memes on social media
+
+I’m interested in computers and especially software.
+
 I’m currently learning C#, Bash and Html
 
 <!---
